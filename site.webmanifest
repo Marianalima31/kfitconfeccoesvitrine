@@ -1,0 +1,11 @@
+{
+  "name": "K-Fit Confecções",
+  "short_name": "K-Fit",
+  "description": "Camisetas e regatas dry-fit em Itaquaquecetuba (SP).",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#c21f66",
+  "icons": [{ "src": "images/icon-192.png", "sizes": "192x192", "type": "image/png" }]
+}
