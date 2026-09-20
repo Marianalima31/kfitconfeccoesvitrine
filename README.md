@@ -2,7 +2,7 @@
 
 Site responsivo e acessível (HTML5, CSS3 e JavaScript puro, sem dependências) com: apresentação do negócio, produtos (camisetas e regatas dry-fit), galeria, localização e contato via WhatsApp. Publicado gratuitamente no GitHub Pages.
 
-Endereço previsto: <https://marianalima31.github.io/kfitconfeccoes/>
+Site publicado: <https://marianalima31.github.io/kfitconfeccoesvitrine/>
 
 ## Estrutura
 
@@ -41,7 +41,7 @@ O horário de atendimento **não** foi incluído por não ter sido informado. Se
 1. Envie o código: `git add . && git commit -m "Site K-Fit" && git push -u origin master`
 2. No GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch**.
 3. Escolha a branch `master` (pasta `/ (root)`) e clique em **Save**.
-4. Em cerca de 1 minuto o site abre em `https://marianalima31.github.io/kfitconfeccoes/`.
+4. O site ficará disponível em `https://marianalima31.github.io/kfitconfeccoesvitrine/`.
 
 ## SEO aplicado
 
